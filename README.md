@@ -48,6 +48,6 @@ Total download is about 8 MB and the run takes under a minute.
 
 This repository contains code only. Downloaded data is not included. Each source has its own terms; check them before redistributing any output.
 
-- NHANES (CDC/NCHS): public-use files, for statistical analysis only. Do not attempt to identify participants. https://www.cdc.gov/nchs/policy/data-user-agreement.html
-- WHO GHO: most indicators are CC BY-NC-SA 3.0 IGO (non-commercial, attribution, share-alike). Check the indicator's terms. https://www.who.int/about/policies/publishing/copyright
+- NHANES (CDC/NCHS): public-use files, for statistical reporting and analysis only. Do not attempt to identify participants. https://www.cdc.gov/nchs/policy/data-user-agreement.html
+- WHO (data.who.int terms): datasets are provided under CC BY 4.0 with additional WHO terms unless an indicator says otherwise. Attribution is required, you may not imply WHO endorsement or use the WHO name or emblem, and you may not misrepresent the data. Check the metadata of each indicator before redistributing. https://data.who.int/about/data/terms-and-conditions
 - ClinVar (NCBI): not for direct diagnostic use or medical decisions without review by a genetics professional. https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/
