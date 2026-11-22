@@ -20,7 +20,7 @@ Genes queried: HNF1A, GCK, KCNJ11 (early and monogenic diabetes) and IFNGR1, IL1
 
 ```bash
 pip install -r requirements.txt
-DATABANK_DIR=./data python src/build_databank.py
+DATABANK_DIR=./data python build_databank.py
 ```
 
 Works in Google Colab too (set `DATABANK_DIR` to a Drive folder to keep the output).
